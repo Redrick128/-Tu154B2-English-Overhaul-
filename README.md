@@ -4,7 +4,7 @@
 # Heres the back up and original GDrive
 
 ## The back Up
-https://drive.google.com/drive/folders/1xmINw6iwVVh2jwRTUz90rW8CVKBbNEvp?usp=drive_link
+https://drive.google.com/file/d/1i2Hcm1k2t1vr5QlQvAg-373PTQeQhN2m/view?usp=drive_link
 
 ## The original gdrive
 https://drive.google.com/file/d/1ld0dmGxnCERlzK4Iaf9xtUlgzZya95Ag/view
